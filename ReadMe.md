@@ -1,21 +1,10 @@
 ***
 <div align="center">
    <h1>Formação - Javascript Para Frontend</h1>
-</div>
-
-
-</br>
+</div> </br>
 
 Projetos realizados na ```Formação - Javascript para Frontend``` da ***Alura***, focado em praticas de desenvolvimento Frontend com JS, porém conceitos 
-aprendidos nessa formação servem tanto para ***Frontend*** quanto ***Backend*** pois em ambos os mundo podemos usar JS para desenvolve-los.
-
-## 🏆 Certificação da Formação
-
-<div align="left">
-  <img src="./01%20-%20Alura%20Midi/assets/certificado.png" width="50%">
-</div>
-
-</br>
+aprendidos nessa formação servem tanto para ***Frontend*** quanto ***Backend*** pois em ambos os mundo podemos usar JS para desenvolve-los. </br>
 
 ## 🔥 Projeto Realizados
 
