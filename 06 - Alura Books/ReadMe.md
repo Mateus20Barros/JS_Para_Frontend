@@ -30,8 +30,6 @@ caracteres unico da tabela **ASCI**.
 
 ## 🚀 Tecnologias
 
-Projeto feito com as 03 tecnologias bases do desenvolvimento web **HTML**, **CSS** e **Javascript**.
-
 <div display="inline-block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="40">
